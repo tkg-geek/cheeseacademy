@@ -8,9 +8,7 @@
 
 #### ③アプリのデプロイURL
 ---
-```
 https://tkg-geek.github.io/cheeseacademy/
-```
 
 #### ④アプリのログイン用IDまたはPassword（ある場合）
 ---
